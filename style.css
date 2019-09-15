@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+div {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    font-size: 7vh;
+    transform: translate(-50%, -50%);
+}
